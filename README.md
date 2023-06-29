@@ -1,13 +1,13 @@
-##Instructions to run this Next.js app locally:
-##Step 1: Download the source code or clone it to your system.
+## Instructions to run this Next.js app locally:
+## Step 1: Download the source code or clone it to your system.
 
 git clone https://github.com/your-username/your-repository.git
 
-##Step 2: Install npm.
+## Step 2: Install npm.
 
 Next.js requires the npm package manager to be installed. If you don't have npm installed, you can install it by following the instructions on the npm website: https://www.npmjs.com/.
 
-##Step 3: Run the command npm run dev.
+## Step 3: Run the command npm run dev.
 
 To run the Next.js app locally, you can run the following command in the terminal:
 
